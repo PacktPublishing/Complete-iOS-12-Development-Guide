@@ -7,9 +7,9 @@ This Learning Path is a direct route to iOS development, which will take you thr
 * iOS 12 Programming for Beginners - Third Edition by Craig Clayton
 * Mastering iOS 12 Programming - Third Edition by Donny Wals
 
-Complete iOS 12 Development Guide by **Craig Clayton and Danny Wals**
+Complete iOS 12 Development Guide by **Craig Clayton** and **Danny Wals**
 
-## What you will learn##
+## What you will learn ##
 * Build a responsive user interface (UI) and add privacy to your custom-rich notifications
 * Set up SiriKit to add voice for Siri shortcuts
 * Integrate iMessage, Siri, and more in your app through app extensions
