@@ -22,6 +22,7 @@ Complete iOS 12 Development Guide by **Craig Clayton** and **Danny Wals**
 For optimal student experience, the following hardware requirements is recommended:
 * __Memory__: 4 GB RAM or higher
 * __Storage__: 40 GB available space
+* You can use any device that runs iOS 12.0 or newer
 
 ## Software requirements
 * Operating System: You should atleast have macOS Mojave installed
